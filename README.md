@@ -14,4 +14,6 @@ Brainstorm document can be found here: https://docs.google.com/document/d/1yXbnO
 *Endurance*: A finite, consumable attribute of a walker. It is consumed quickly by opening a door, slowly by holding a door, slightly restored when a crossing walker acknowledges the holder, and slightly subtracted when a crossing walker does not acknowledge the holder
 *Reach*: An attribute of a walker. (the longer the reach, the longer the range)
 *Acknowledgement*: A walker can give or not give a holder acknowledgement, which effects the holder's endurance.
+*Speed*: An attribute of a walker determining how fast it moves from one side of the stage to the other
+*Story Node*: A portion of the level's story that is revealed each time a walker crosses when there is a holder
 
